@@ -111,6 +111,7 @@ section h1 {
 }
 
 
+
 /* this is my second grid. I set up the grid using display to grid and added various styling to the grids. I also used the diva class to apply this grid. */
 .diva {
     display: grid;
